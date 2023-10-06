@@ -1,0 +1,3 @@
+external base, sonydriverhelper library for aimbot.
+aimbot loop checks for closest player in fov (need to add localpawn)
+hooking into geforce experience overlay for overlay
